@@ -1,0 +1,451 @@
+ID_cliente,Zona,Data_iscrizione,Piano,Accessi_90gg,Giorni_ultimo_accesso,Categoria_preferita,Importo_totale_90gg,Profilo_simulato,Gruppo,Nome_gruppo
+CC0001,Nord,2026-10-14,Gratis,6.0,8.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0002,Centro,2026-10-22,Basic,2.0,10.0,Audiolibri,10.0,Recente,2,Intermedi e nuovi
+CC0003,Centro,2026-04-09,Family,3.0,77.0,Audiolibri,75.0,Inattivo,4,Famiglie meno attive
+CC0004,Sud,2026-03-20,Family,58.0,5.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0005,Nord,2026-10-26,Gratis,12.0,8.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0006,Nord,2026-01-21,Gratis,2.0,47.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0007,Nord,2025-11-10,Family,18.0,23.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0008,Nord,2026-10-25,Basic,6.0,3.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0009,Centro,2025-11-05,Gratis,16.0,25.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0010,Nord,2026-08-05,Basic,28.0,24.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0011,Centro,2025-12-05,Gratis,4.0,48.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0012,Centro,2026-09-22,Gratis,1.0,7.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0013,Centro,2025-12-25,Basic,59.0,6.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0014,Centro,2026-02-19,Family,3.0,102.0,Musica,75.0,Inattivo,4,Famiglie meno attive
+CC0015,Nord,2025-11-19,Family,22.0,9.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0016,Isole,2026-05-25,Family,4.0,47.0,Musica,75.0,Inattivo,4,Famiglie meno attive
+CC0017,Nord,2026-01-30,Gratis,26.0,29.0,Audiolibri,0.0,Occasionale,2,Intermedi e nuovi
+CC0018,Sud,2026-06-28,Basic,58.0,5.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0019,Nord,2026-04-18,Gratis,48.0,0.0,Musica,0.0,Frequente,3,Attivi con piano base
+CC0020,Centro,2026-02-03,Basic,60.0,1.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0021,Centro,2026-06-07,Family,63.0,0.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0022,Nord,2026-02-20,Basic,43.0,3.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0023,Nord,2026-10-01,Basic,8.0,1.0,Audiolibri,20.0,Recente,2,Intermedi e nuovi
+CC0024,Nord,2026-06-15,Family,51.0,4.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0025,Sud,2025-12-09,Gratis,5.0,55.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0026,Sud,2026-10-11,Gratis,2.0,8.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0027,Sud,2026-10-30,Basic,6.0,6.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0028,Nord,2026-04-29,Basic,9.0,10.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0029,Centro,2026-01-30,Basic,4.0,101.0,Musica,30.0,Inattivo,1,Inattivi
+CC0030,Nord,2026-01-15,Basic,15.0,8.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0031,Nord,2026-05-11,Family,22.0,28.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0032,Sud,2026-03-29,Family,14.0,9.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0033,Nord,2026-04-05,Basic,10.0,11.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0034,Isole,2026-05-23,Gratis,4.0,44.0,Musica,0.0,Inattivo,1,Inattivi
+CC0035,Centro,2026-03-13,Family,56.0,4.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0036,Nord,2026-08-07,Gratis,22.0,5.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0037,Nord,2026-10-02,Family,6.0,8.0,Podcast,50.0,Recente,4,Famiglie meno attive
+CC0038,Centro,2026-10-07,Gratis,5.0,4.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0039,Nord,2026-05-14,Basic,12.0,4.0,Musica,30.0,Frequente,2,Intermedi e nuovi
+CC0040,Centro,2026-10-01,Gratis,12.0,4.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0041,Sud,2026-10-07,Gratis,8.0,2.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0042,Isole,2026-01-07,Family,5.0,10.0,Musica,75.0,Inattivo,4,Famiglie meno attive
+CC0043,Nord,2026-03-17,Basic,12.0,0.0,Podcast,30.0,Frequente,2,Intermedi e nuovi
+CC0044,Sud,2026-05-11,Gratis,22.0,9.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0045,Sud,2026-10-12,Gratis,8.0,3.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0046,Nord,2025-11-07,Gratis,8.0,29.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0047,Centro,2026-05-15,Basic,15.0,20.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0048,Sud,2026-05-22,Gratis,2.0,102.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0049,Nord,2026-10-17,Basic,2.0,8.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0050,Centro,2026-01-25,Basic,63.0,0.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0051,Nord,2026-02-22,Basic,71.0,1.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0052,Sud,2026-02-20,Gratis,5.0,107.0,Musica,0.0,Inattivo,1,Inattivi
+CC0053,Nord,2026-07-07,Basic,14.0,18.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0054,Centro,2026-05-30,Family,63.0,5.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0055,Sud,2026-08-01,Basic,12.0,18.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0056,Centro,2025-11-10,Family,72.0,6.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0057,Nord,2026-09-21,Gratis,4.0,1.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0058,Centro,2025-12-27,Basic,59.0,0.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0059,Nord,2025-12-18,Basic,3.0,59.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0060,Sud,2026-06-13,Basic,21.0,15.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0061,Nord,2026-06-17,Family,54.0,4.0,Audiolibri,75.0,Frequente,0,Famiglie attive
+CC0062,Centro,2026-03-20,Family,53.0,4.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0063,Centro,2026-04-16,Gratis,7.0,10.0,Audiolibri,0.0,Occasionale,2,Intermedi e nuovi
+CC0064,Sud,2026-04-28,Gratis,16.0,13.0,Audiolibri,0.0,Occasionale,2,Intermedi e nuovi
+CC0065,Centro,2026-02-24,Basic,51.0,4.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0066,Nord,2026-02-08,Basic,12.0,8.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0067,Nord,2026-10-24,Gratis,2.0,8.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0068,Sud,2026-11-02,Basic,2.0,3.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0069,Nord,2025-12-25,Gratis,4.0,26.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0070,Centro,2026-03-23,Family,61.0,0.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0071,Isole,2026-10-14,Gratis,10.0,5.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0072,Nord,2026-01-31,Gratis,57.0,4.0,Audiolibri,0.0,Frequente,3,Attivi con piano base
+CC0073,Centro,2026-02-21,Basic,24.0,22.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0074,Nord,2026-04-06,Basic,4.0,73.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0075,Sud,2026-10-18,Gratis,6.0,2.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0076,Centro,2026-01-17,Basic,60.0,0.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0077,Nord,2025-12-09,Gratis,4.0,99.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0078,Centro,2026-04-04,Basic,55.0,6.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0079,Centro,2026-10-03,Gratis,6.0,0.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0080,Sud,2026-03-04,Gratis,7.0,72.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0081,Nord,2026-03-11,Gratis,8.0,58.0,Musica,0.0,Inattivo,1,Inattivi
+CC0082,Sud,2026-06-08,Basic,25.0,18.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0083,Sud,2026-05-25,Basic,49.0,6.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0084,Nord,2026-03-21,Basic,56.0,5.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0085,Nord,2026-04-28,Gratis,5.0,44.0,Musica,0.0,Inattivo,1,Inattivi
+CC0086,Sud,2026-10-11,Basic,2.0,10.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0087,Centro,2026-10-02,Family,4.0,2.0,Audiolibri,50.0,Recente,4,Famiglie meno attive
+CC0088,Nord,2026-04-05,Family,16.0,24.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0089,Nord,2026-06-01,Basic,37.0,3.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0090,Centro,2026-05-04,Basic,5.0,53.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0091,Nord,2025-12-28,Basic,12.0,1.0,Podcast,30.0,Frequente,2,Intermedi e nuovi
+CC0092,Nord,2026-06-07,Family,54.0,0.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0093,Sud,2025-11-28,Basic,68.0,2.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0094,Sud,2026-03-09,Basic,6.0,87.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0095,Sud,2026-03-10,Basic,12.0,8.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0096,Centro,2026-05-14,Family,54.0,5.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0097,Centro,2026-02-04,Family,62.0,3.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0098,Nord,2026-01-06,Basic,19.0,17.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0099,Nord,2026-10-10,Family,5.0,4.0,Musica,25.0,Recente,2,Intermedi e nuovi
+CC0100,Centro,2026-10-13,Family,6.0,9.0,Podcast,25.0,Recente,2,Intermedi e nuovi
+CC0101,Isole,2026-01-09,Basic,16.0,25.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0102,Centro,2025-11-30,Basic,43.0,10.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0103,Nord,2026-10-08,Gratis,6.0,4.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0104,Nord,2026-05-07,Family,21.0,14.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0105,Sud,2025-12-17,Gratis,4.0,99.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0106,Nord,2025-12-14,Basic,16.0,25.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0107,Sud,2025-11-22,Gratis,8.0,58.0,Musica,0.0,Inattivo,1,Inattivi
+CC0108,Centro,2026-02-16,Basic,8.0,78.0,Musica,30.0,Inattivo,1,Inattivi
+CC0109,Isole,2026-09-27,Basic,4.0,6.0,Podcast,20.0,Recente,2,Intermedi e nuovi
+CC0110,Sud,2025-12-09,Basic,44.0,5.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0111,Centro,2025-11-12,Basic,58.0,3.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0112,Centro,2026-01-30,Basic,11.0,11.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0113,Centro,2026-06-30,Family,10.0,15.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0114,Centro,2026-11-01,Gratis,2.0,4.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0115,Sud,2026-05-20,Basic,21.0,19.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0116,Centro,2026-03-04,Family,51.0,5.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0117,Sud,2026-10-29,Basic,4.0,7.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0118,Nord,2025-11-25,Basic,2.0,59.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0119,Nord,2026-04-19,Gratis,26.0,11.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0120,Sud,2026-03-23,Basic,76.0,5.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0121,Nord,2025-12-14,Basic,41.0,3.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0122,Nord,2026-02-08,Gratis,0.0,87.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0123,Centro,2025-11-24,Basic,40.0,4.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0124,Nord,2026-02-28,Basic,25.0,16.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0125,Sud,2025-11-11,Basic,21.0,10.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0126,Centro,2026-05-20,Basic,5.0,30.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0127,Centro,2025-11-12,Family,54.0,5.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0128,Nord,2026-05-27,Gratis,6.0,78.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0129,Centro,2026-04-02,Basic,10.0,27.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0130,Sud,2026-01-14,Basic,17.0,30.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0131,Sud,2026-03-21,Family,48.0,6.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0132,Nord,2026-07-28,Gratis,21.0,9.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0133,Centro,2026-02-27,Basic,10.0,6.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0134,Nord,2026-04-01,Basic,59.0,5.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0135,Centro,2026-01-18,Basic,84.0,3.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0136,Nord,2026-09-22,Basic,5.0,1.0,Musica,20.0,Recente,2,Intermedi e nuovi
+CC0137,Nord,2026-05-31,Gratis,5.0,67.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0138,Sud,2026-04-19,Basic,31.0,6.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0139,Isole,2026-10-06,Family,7.0,5.0,Musica,25.0,Recente,2,Intermedi e nuovi
+CC0140,Sud,2026-02-06,Basic,1.0,76.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0141,Sud,2025-12-13,Basic,5.0,78.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0142,Nord,2026-10-29,Gratis,4.0,4.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0143,Sud,2026-03-17,Gratis,6.0,84.0,Musica,0.0,Inattivo,1,Inattivi
+CC0144,Nord,2026-05-31,Gratis,8.0,8.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0145,Centro,2026-03-02,Gratis,15.0,10.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0146,Nord,2025-12-28,Gratis,7.0,58.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0147,Nord,2025-11-14,Basic,2.0,70.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0148,Nord,2026-10-14,Gratis,7.0,10.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0149,Sud,2026-03-22,Basic,1.0,113.0,Musica,30.0,Inattivo,1,Inattivi
+CC0150,Centro,2026-10-05,Basic,0.0,0.0,Audiolibri,20.0,Recente,2,Intermedi e nuovi
+CC0151,Nord,2026-10-09,Basic,3.0,8.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0152,Centro,2026-03-10,Gratis,5.0,76.0,Musica,0.0,Inattivo,1,Inattivi
+CC0153,Sud,2026-05-09,Basic,22.0,28.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0154,Centro,2026-05-14,Gratis,5.0,62.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0155,Nord,2026-05-30,Basic,6.0,108.0,Musica,30.0,Inattivo,1,Inattivi
+CC0156,Sud,2025-11-05,Gratis,4.0,119.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0157,Nord,2026-11-01,Family,7.0,3.0,Podcast,25.0,Recente,2,Intermedi e nuovi
+CC0158,Isole,2026-05-08,Gratis,5.0,116.0,Musica,0.0,Inattivo,1,Inattivi
+CC0159,Sud,2026-10-12,Gratis,9.0,3.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0160,Nord,2026-05-07,Gratis,4.0,112.0,Musica,0.0,Inattivo,1,Inattivi
+CC0161,Nord,2025-12-16,Basic,73.0,5.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0162,Sud,2026-04-17,Gratis,10.0,71.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0163,Nord,2026-03-12,Basic,31.0,6.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0164,Nord,2026-01-21,Basic,52.0,3.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0165,Nord,2026-10-13,Basic,8.0,10.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0166,Nord,2026-07-30,Family,16.0,29.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0167,Isole,2026-09-28,Basic,6.0,2.0,Podcast,20.0,Recente,2,Intermedi e nuovi
+CC0168,Nord,2026-03-28,Basic,7.0,61.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0169,Nord,2026-01-25,Gratis,13.0,12.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0170,Nord,2026-08-02,Family,16.0,23.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0171,Sud,2026-10-13,Gratis,2.0,3.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0172,Nord,2026-06-26,Gratis,11.0,15.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0173,Nord,2026-05-12,Family,17.0,5.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0174,Sud,2026-04-22,Family,12.0,21.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0175,Nord,2026-10-17,Gratis,5.0,9.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0176,Sud,2026-10-12,Gratis,8.0,9.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0177,Nord,2026-03-22,Basic,20.0,12.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0178,Sud,2025-12-09,Basic,44.0,10.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0179,Centro,2026-05-14,Gratis,4.0,111.0,Musica,0.0,Inattivo,1,Inattivi
+CC0180,Centro,2026-10-27,Basic,5.0,0.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0181,Nord,2026-04-30,Gratis,5.0,48.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0182,Sud,2026-02-14,Family,17.0,26.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0183,Centro,2026-10-16,Basic,6.0,9.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0184,Isole,2026-01-21,Basic,72.0,2.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0185,Sud,2026-05-24,Gratis,5.0,56.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0186,Nord,2026-01-03,Basic,0.0,111.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0187,Nord,2026-07-01,Family,23.0,9.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0188,Centro,2026-06-17,Basic,73.0,3.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0189,Nord,2025-11-23,Gratis,21.0,11.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0190,Nord,2026-09-28,Gratis,7.0,10.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0191,Nord,2026-03-28,Gratis,3.0,106.0,Musica,0.0,Inattivo,1,Inattivi
+CC0192,Centro,2025-12-24,Basic,12.0,73.0,Musica,30.0,Inattivo,1,Inattivi
+CC0193,Sud,2025-11-07,Gratis,4.0,63.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0194,Centro,2026-03-30,Basic,12.0,42.0,Audiolibri,30.0,Inattivo,2,Intermedi e nuovi
+CC0195,Sud,2026-03-01,Basic,58.0,0.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0196,Centro,2025-12-15,Gratis,24.0,11.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0197,Centro,2026-04-02,Basic,8.0,48.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0198,Isole,2026-03-23,Basic,67.0,10.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0199,Nord,2026-05-01,Family,58.0,2.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0200,Sud,2026-02-14,Gratis,13.0,19.0,Audiolibri,0.0,Occasionale,2,Intermedi e nuovi
+CC0201,Nord,2026-05-04,Gratis,4.0,10.0,Musica,0.0,Inattivo,2,Intermedi e nuovi
+CC0202,Nord,2026-10-19,Gratis,3.0,3.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0203,Centro,2026-06-07,Family,16.0,15.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0204,Centro,2025-11-17,Gratis,3.0,54.0,Musica,0.0,Inattivo,1,Inattivi
+CC0205,Nord,2026-10-07,Gratis,7.0,1.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0206,Sud,2026-10-15,Gratis,4.0,4.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0207,Centro,2026-02-22,Basic,5.0,97.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0208,Sud,2026-04-03,Family,4.0,98.0,Podcast,75.0,Inattivo,4,Famiglie meno attive
+CC0209,Nord,2025-12-16,Basic,70.0,3.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0210,Sud,2025-12-17,Basic,23.0,30.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0211,Centro,2026-02-15,Gratis,3.0,83.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0212,Sud,2026-02-20,Family,17.0,9.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0213,Nord,2025-12-24,Gratis,6.0,117.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0214,Sud,2026-01-28,Basic,40.0,5.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0215,Isole,2025-12-13,Basic,45.0,3.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0216,Centro,2026-10-02,Gratis,4.0,4.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0217,Centro,2026-03-15,Basic,67.0,5.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0218,Nord,2026-05-07,Basic,0.0,11.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0219,Nord,2026-04-02,Gratis,7.0,79.0,Musica,0.0,Inattivo,1,Inattivi
+CC0220,Centro,2026-01-01,Basic,6.0,17.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0221,Nord,2026-05-11,Basic,58.0,3.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0222,Sud,2025-11-13,Family,5.0,119.0,Podcast,75.0,Inattivo,1,Inattivi
+CC0223,Nord,2026-01-23,Basic,17.0,9.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0224,Nord,2026-02-17,Gratis,20.0,29.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0225,Sud,2025-12-09,Family,18.0,22.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0226,Centro,2026-01-22,Basic,67.0,0.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0227,Sud,2026-04-04,Basic,19.0,26.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0228,Centro,2026-06-20,Family,72.0,1.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0229,Nord,2025-11-23,Family,60.0,5.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0230,Centro,2025-12-17,Gratis,67.0,2.0,Podcast,0.0,Frequente,3,Attivi con piano base
+CC0231,Isole,2026-05-23,Basic,0.0,89.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0232,Nord,2026-01-02,Gratis,5.0,40.0,Musica,0.0,Inattivo,2,Intermedi e nuovi
+CC0233,Nord,2026-03-16,Gratis,3.0,101.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0234,Nord,2026-04-28,Basic,6.0,92.0,Musica,30.0,Inattivo,1,Inattivi
+CC0235,Nord,2025-12-08,Gratis,2.0,48.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0236,Sud,2026-04-08,Basic,61.0,0.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0237,Nord,2025-11-15,Basic,12.0,22.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0238,Sud,2026-07-09,Family,27.0,20.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0239,Isole,2025-11-11,Basic,27.0,16.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0240,Nord,2026-05-20,Basic,20.0,8.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0241,Nord,2026-06-30,Gratis,21.0,7.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0242,Centro,2025-11-05,Basic,27.0,15.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0243,Nord,2026-11-04,Gratis,8.0,10.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0244,Centro,2025-12-30,Basic,4.0,117.0,Musica,30.0,Inattivo,1,Inattivi
+CC0245,Sud,2026-03-03,Basic,6.0,68.0,Musica,30.0,Inattivo,1,Inattivi
+CC0246,Centro,2026-03-08,Family,22.0,11.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0247,Isole,2026-10-16,Gratis,7.0,0.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0248,Nord,2026-02-16,Basic,22.0,12.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0249,Nord,2026-03-17,Gratis,15.0,24.0,Audiolibri,0.0,Occasionale,2,Intermedi e nuovi
+CC0250,Isole,2026-06-15,Basic,54.0,10.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0251,Nord,2026-11-03,Basic,9.0,0.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0252,Sud,2026-02-20,Basic,16.0,13.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0253,Nord,2025-12-12,Gratis,1.0,80.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0254,Centro,2026-10-01,Gratis,6.0,5.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0255,Nord,2026-10-10,Gratis,5.0,0.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0256,Centro,2026-10-04,Gratis,15.0,10.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0257,Centro,2026-09-24,Gratis,6.0,8.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0258,Centro,2026-10-15,Basic,7.0,3.0,Audiolibri,10.0,Recente,2,Intermedi e nuovi
+CC0259,Sud,2026-07-31,Family,15.0,21.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0260,Nord,2025-11-26,Family,27.0,11.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0261,Centro,2026-06-04,Basic,23.0,19.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0262,Centro,2025-12-03,Gratis,5.0,119.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0263,Sud,2026-05-09,Basic,0.0,70.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0264,Nord,2026-02-16,Basic,32.0,24.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0265,Nord,2026-10-25,Family,6.0,0.0,Audiolibri,25.0,Recente,2,Intermedi e nuovi
+CC0266,Nord,2026-03-03,Gratis,31.0,8.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0267,Nord,2026-09-23,Basic,2.0,2.0,Musica,20.0,Recente,2,Intermedi e nuovi
+CC0268,Nord,2025-12-08,Basic,17.0,6.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0269,Nord,2026-08-01,Family,13.0,15.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0270,Sud,2026-06-02,Gratis,20.0,10.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0271,Isole,2026-02-28,Gratis,3.0,82.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0272,Sud,2026-04-18,Basic,4.0,65.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0273,Nord,2025-11-25,Gratis,6.0,61.0,Musica,0.0,Inattivo,1,Inattivi
+CC0274,Sud,2026-04-18,Basic,14.0,13.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0275,Centro,2026-03-10,Basic,26.0,24.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0276,Centro,2026-05-27,Gratis,0.0,82.0,Musica,0.0,Inattivo,1,Inattivi
+CC0277,Centro,2026-02-23,Gratis,7.0,50.0,Musica,0.0,Inattivo,1,Inattivi
+CC0278,Sud,2026-07-21,Gratis,20.0,10.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0279,Centro,2026-09-22,Gratis,8.0,0.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0280,Centro,2025-12-30,Basic,20.0,9.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0281,Nord,2026-06-05,Basic,5.0,92.0,Musica,30.0,Inattivo,1,Inattivi
+CC0282,Nord,2026-10-17,Basic,7.0,9.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0283,Nord,2026-02-22,Gratis,6.0,111.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0284,Sud,2026-05-25,Gratis,19.0,10.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0285,Centro,2026-02-07,Basic,18.0,23.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0286,Centro,2026-03-20,Basic,6.0,60.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0287,Centro,2026-03-21,Family,5.0,21.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0288,Nord,2026-06-22,Basic,50.0,3.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0289,Centro,2026-10-16,Gratis,12.0,7.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0290,Sud,2026-04-19,Family,52.0,6.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0291,Nord,2026-05-28,Gratis,18.0,30.0,Audiolibri,0.0,Occasionale,2,Intermedi e nuovi
+CC0292,Nord,2026-01-17,Family,39.0,2.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0293,Nord,2026-06-20,Gratis,19.0,10.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0294,Nord,2025-12-10,Gratis,3.0,43.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0295,Nord,2026-06-06,Basic,4.0,108.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0296,Centro,2026-01-09,Basic,45.0,5.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0297,Nord,2026-06-23,Basic,47.0,2.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0298,Centro,2026-02-24,Family,55.0,5.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0299,Isole,2025-11-22,Gratis,3.0,48.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0300,Isole,2026-02-20,Basic,5.0,48.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0301,Isole,2026-09-22,Basic,3.0,8.0,Musica,20.0,Recente,2,Intermedi e nuovi
+CC0302,Nord,2026-09-24,Family,10.0,1.0,Podcast,50.0,Recente,4,Famiglie meno attive
+CC0303,Sud,2026-05-29,Basic,15.0,19.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0304,Nord,2026-04-29,Family,48.0,5.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0305,Sud,2026-05-22,Family,70.0,3.0,Audiolibri,75.0,Frequente,0,Famiglie attive
+CC0306,Sud,2026-04-29,Basic,20.0,24.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0307,Sud,2025-12-06,Gratis,26.0,9.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0308,Isole,2025-12-21,Family,17.0,25.0,Audiolibri,75.0,Occasionale,4,Famiglie meno attive
+CC0309,Sud,2026-01-19,Basic,6.0,108.0,Musica,30.0,Inattivo,1,Inattivi
+CC0310,Sud,2026-01-03,Basic,64.0,1.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0311,Centro,2026-10-21,Family,7.0,6.0,Musica,25.0,Recente,2,Intermedi e nuovi
+CC0312,Sud,2025-11-05,Basic,12.0,55.0,Musica,30.0,Inattivo,1,Inattivi
+CC0313,Nord,2026-05-15,Family,24.0,14.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0314,Centro,2025-12-26,Basic,15.0,15.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0315,Sud,2026-10-25,Family,5.0,8.0,Musica,25.0,Recente,2,Intermedi e nuovi
+CC0316,Sud,2026-03-24,Basic,42.0,6.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0317,Nord,2025-12-27,Gratis,11.0,29.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0318,Sud,2026-10-20,Gratis,5.0,10.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0319,Nord,2026-04-11,Gratis,4.0,98.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0320,Centro,2026-01-21,Basic,18.0,10.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0321,Nord,2026-11-01,Basic,11.0,0.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0322,Nord,2026-03-11,Family,29.0,11.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0323,Sud,2025-11-07,Gratis,7.0,109.0,Musica,0.0,Inattivo,1,Inattivi
+CC0324,Centro,2026-02-02,Basic,61.0,2.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0325,Nord,2026-05-19,Basic,17.0,24.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0326,Centro,2026-01-26,Basic,17.0,20.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0327,Nord,2026-01-06,Basic,64.0,6.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0328,Nord,2025-12-01,Family,52.0,2.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0329,Sud,2026-06-16,Basic,76.0,4.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0330,Sud,2026-01-14,Basic,14.0,11.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0331,Isole,2026-07-19,Basic,19.0,24.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0332,Nord,2026-01-23,Gratis,3.0,90.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0333,Nord,2026-10-12,Basic,5.0,5.0,Audiolibri,10.0,Recente,2,Intermedi e nuovi
+CC0334,Sud,2025-12-18,Family,56.0,2.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0335,Nord,2025-12-31,Basic,30.0,12.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0336,Nord,2026-04-08,Basic,9.0,21.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0337,Nord,2025-11-17,Basic,10.0,19.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0338,Sud,2026-05-20,Basic,19.0,28.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0339,Isole,2025-12-27,Gratis,5.0,72.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0340,Isole,2026-10-11,Basic,8.0,10.0,Podcast,10.0,Recente,2,Intermedi e nuovi
+CC0341,Isole,2026-01-15,Gratis,12.0,64.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0342,Nord,2026-04-09,Basic,52.0,0.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0343,Nord,2026-05-06,Basic,4.0,63.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0344,Nord,2026-03-06,Basic,4.0,10.0,Podcast,30.0,Inattivo,2,Intermedi e nuovi
+CC0345,Centro,2026-10-26,Gratis,8.0,9.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0346,Nord,2026-05-20,Family,43.0,1.0,Audiolibri,75.0,Frequente,0,Famiglie attive
+CC0347,Sud,2026-02-14,Basic,30.0,7.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0348,Sud,2026-10-31,Basic,2.0,5.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0349,Nord,2026-03-29,Family,44.0,5.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0350,Sud,2026-04-04,Basic,19.0,11.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0351,Centro,2026-01-13,Basic,63.0,5.0,Audiolibri,30.0,Frequente,3,Attivi con piano base
+CC0352,Sud,2025-11-21,Gratis,4.0,74.0,Musica,0.0,Inattivo,1,Inattivi
+CC0353,Nord,2026-05-29,Family,38.0,6.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0354,Isole,2026-11-03,Basic,7.0,2.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0355,Nord,2026-10-16,Gratis,8.0,3.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0356,Nord,2026-01-07,Basic,21.0,21.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0357,Centro,2026-02-11,Basic,14.0,5.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0358,Centro,2026-09-22,Basic,4.0,5.0,Musica,20.0,Recente,2,Intermedi e nuovi
+CC0359,Isole,2026-02-05,Basic,6.0,17.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0360,Centro,2026-01-26,Gratis,24.0,5.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0361,Isole,2026-02-02,Gratis,5.0,59.0,Musica,0.0,Inattivo,1,Inattivi
+CC0362,Isole,2025-11-15,Family,7.0,24.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0363,Centro,2026-06-22,Gratis,9.0,15.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0364,Nord,2026-10-15,Gratis,3.0,7.0,Podcast,0.0,Recente,2,Intermedi e nuovi
+CC0365,Sud,2026-03-25,Basic,8.0,10.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0366,Centro,2026-10-21,Gratis,9.0,9.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0367,Centro,2026-10-09,Gratis,7.0,1.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0368,Sud,2025-12-19,Gratis,13.0,10.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0369,Nord,2026-05-18,Basic,24.0,8.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0370,Nord,2026-01-08,Basic,21.0,25.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0371,Sud,2026-04-19,Basic,3.0,54.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0372,Centro,2026-04-24,Gratis,3.0,89.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0373,Nord,2026-04-12,Family,44.0,6.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0374,Sud,2025-11-17,Basic,10.0,29.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0375,Centro,2026-02-25,Basic,8.0,73.0,Podcast,30.0,Inattivo,1,Inattivi
+CC0376,Centro,2026-07-07,Gratis,18.0,27.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0377,Nord,2025-11-29,Basic,20.0,30.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0378,Sud,2025-12-10,Gratis,6.0,101.0,Musica,0.0,Inattivo,1,Inattivi
+CC0379,Isole,2026-03-16,Basic,53.0,6.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0380,Nord,2025-12-30,Family,37.0,3.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0381,Nord,2026-09-22,Gratis,11.0,10.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0382,Isole,2025-12-29,Basic,12.0,5.0,Musica,30.0,Frequente,2,Intermedi e nuovi
+CC0383,Nord,2025-11-19,Basic,53.0,0.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0384,Sud,2026-02-23,Basic,4.0,76.0,Musica,30.0,Inattivo,1,Inattivi
+CC0385,Nord,2025-12-02,Family,59.0,5.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0386,Sud,2025-12-18,Family,20.0,16.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0387,Nord,2026-09-21,Gratis,9.0,3.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0388,Centro,2025-12-23,Family,48.0,2.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0389,Centro,2026-07-08,Family,2.0,12.0,Musica,75.0,Occasionale,4,Famiglie meno attive
+CC0390,Sud,2026-10-02,Gratis,9.0,3.0,Audiolibri,0.0,Recente,2,Intermedi e nuovi
+CC0391,Nord,2026-04-10,Basic,29.0,6.0,Musica,30.0,Frequente,2,Intermedi e nuovi
+CC0392,Isole,2026-04-13,Basic,17.0,25.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0393,Nord,2025-11-22,Gratis,32.0,30.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0394,Nord,2026-04-07,Gratis,26.0,9.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0395,Sud,2026-01-02,Gratis,53.0,0.0,Musica,0.0,Frequente,3,Attivi con piano base
+CC0396,Centro,2026-06-15,Basic,11.0,30.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0397,Sud,2026-01-01,Gratis,50.0,2.0,Musica,0.0,Frequente,3,Attivi con piano base
+CC0398,Centro,2026-09-24,Basic,11.0,8.0,Podcast,20.0,Recente,2,Intermedi e nuovi
+CC0399,Nord,2026-03-28,Basic,17.0,14.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0400,Sud,2026-01-06,Gratis,3.0,10.0,Audiolibri,0.0,Inattivo,2,Intermedi e nuovi
+CC0401,Nord,2025-11-21,Basic,18.0,30.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0402,Sud,2026-10-22,Gratis,5.0,9.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0403,Nord,2026-01-06,Gratis,4.0,50.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0404,Isole,2026-01-26,Basic,20.0,16.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0405,Nord,2026-10-31,Gratis,3.0,5.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0406,Nord,2026-04-13,Basic,14.0,15.0,Audiolibri,30.0,Occasionale,2,Intermedi e nuovi
+CC0407,Sud,2025-11-22,Basic,13.0,10.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0408,Sud,2026-03-08,Gratis,57.0,2.0,Podcast,0.0,Frequente,3,Attivi con piano base
+CC0409,Isole,2026-10-17,Family,7.0,3.0,Musica,25.0,Recente,2,Intermedi e nuovi
+CC0410,Isole,2026-01-03,Family,57.0,1.0,Musica,75.0,Frequente,0,Famiglie attive
+CC0411,Nord,2026-04-26,Basic,0.0,82.0,Audiolibri,30.0,Inattivo,1,Inattivi
+CC0412,Nord,2026-03-07,Gratis,3.0,116.0,Musica,0.0,Inattivo,1,Inattivi
+CC0413,Nord,2026-10-29,Basic,5.0,7.0,Audiolibri,10.0,Recente,2,Intermedi e nuovi
+CC0414,Centro,2025-12-27,Family,7.0,56.0,Podcast,75.0,Inattivo,4,Famiglie meno attive
+CC0415,Sud,2025-12-10,Gratis,2.0,52.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0416,Nord,2026-01-07,Basic,58.0,0.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0417,Nord,2026-01-23,Basic,54.0,0.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0418,Nord,2026-06-26,Basic,25.0,19.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0419,Nord,2026-04-19,Basic,24.0,26.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0420,Centro,2026-04-07,Basic,19.0,30.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0421,Centro,2026-04-08,Basic,57.0,2.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0422,Nord,2025-11-05,Gratis,11.0,22.0,Musica,0.0,Occasionale,2,Intermedi e nuovi
+CC0423,Sud,2026-01-14,Gratis,4.0,100.0,Musica,0.0,Inattivo,1,Inattivi
+CC0424,Nord,2026-01-26,Basic,29.0,26.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0425,Sud,2026-02-27,Gratis,4.0,49.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0426,Nord,2026-10-08,Basic,8.0,8.0,Audiolibri,10.0,Recente,2,Intermedi e nuovi
+CC0427,Centro,2025-12-13,Basic,17.0,7.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0428,Centro,2026-10-27,Basic,9.0,0.0,Musica,10.0,Recente,2,Intermedi e nuovi
+CC0429,Sud,2026-06-20,Basic,24.0,28.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0430,Nord,2026-06-01,Gratis,25.0,12.0,Podcast,0.0,Occasionale,2,Intermedi e nuovi
+CC0431,Nord,2026-02-22,Basic,14.0,24.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0432,Centro,2026-04-02,Family,4.0,45.0,Podcast,75.0,Inattivo,4,Famiglie meno attive
+CC0433,Isole,2026-01-07,Gratis,4.0,111.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0434,Sud,2026-01-11,Gratis,2.0,51.0,Audiolibri,0.0,Inattivo,1,Inattivi
+CC0435,Centro,2026-03-18,Basic,23.0,10.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0436,Nord,2026-06-04,Basic,32.0,6.0,Musica,30.0,Frequente,2,Intermedi e nuovi
+CC0437,Centro,2026-10-01,Family,13.0,3.0,Audiolibri,50.0,Recente,4,Famiglie meno attive
+CC0438,Centro,2026-04-23,Family,43.0,3.0,Podcast,75.0,Frequente,0,Famiglie attive
+CC0439,Nord,2026-02-26,Family,23.0,15.0,Podcast,75.0,Occasionale,4,Famiglie meno attive
+CC0440,Centro,2026-03-10,Basic,12.0,26.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0441,Centro,2026-05-02,Basic,7.0,43.0,Podcast,30.0,Inattivo,2,Intermedi e nuovi
+CC0442,Centro,2026-09-25,Basic,6.0,5.0,Musica,20.0,Recente,2,Intermedi e nuovi
+CC0443,Nord,2026-03-07,Basic,52.0,5.0,Podcast,30.0,Frequente,3,Attivi con piano base
+CC0444,Sud,2026-05-31,Gratis,8.0,88.0,Podcast,0.0,Inattivo,1,Inattivi
+CC0445,Centro,2026-05-23,Basic,72.0,4.0,Musica,30.0,Frequente,3,Attivi con piano base
+CC0446,Sud,2026-03-18,Family,2.0,87.0,Musica,75.0,Inattivo,4,Famiglie meno attive
+CC0447,Sud,2026-06-04,Basic,17.0,20.0,Podcast,30.0,Occasionale,2,Intermedi e nuovi
+CC0448,Isole,2026-06-01,Basic,21.0,20.0,Musica,30.0,Occasionale,2,Intermedi e nuovi
+CC0449,Sud,2026-10-28,Gratis,7.0,4.0,Musica,0.0,Recente,2,Intermedi e nuovi
+CC0450,Sud,2026-04-16,Family,2.0,56.0,Musica,75.0,Inattivo,4,Famiglie meno attive
